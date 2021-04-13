@@ -1,0 +1,17 @@
+{
+	"Wallpapers":
+        [
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.violawhite/main/01.png",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.violawhite/main/01.png",
+				"name": "Wallpaper 1"
+			},
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.violawhite/main/02.png",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.violawhite/main/02.png",
+				"name": "Wallpaper 2"						
+			}
+		]
+}
